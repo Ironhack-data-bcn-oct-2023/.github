@@ -2,7 +2,7 @@
 
 This is the Github organization for your Data analytics bootcamp. Here you will mainly find:
 
-- 👨‍🏫 **[Lectures](https://github.com/Ironhack-data-bcn-april-2023/lectures)** with some info and live coding
+- 👨‍🏫 **[Lectures](https://github.com/Ironhack-data-bcn-oct-2023/lectures)** with some info and live coding
 - 🧪 **Labs** you will be working on
 - 📝 **Projects** where you will put things into practice
 - 🤘 Some other **miscellaneous** things
